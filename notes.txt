@@ -1,0 +1,13 @@
+To run programs using the command line in ubuntu type either:
+python programName.py
+python3 programName.py
+and then the program will run.
+
+Alternatively if you have either of these at the top of the file:
+#!/usr/bin/python3
+#!/usr/bin/python
+#!/usr/bin/python2
+AND you've used chmod 777 programName.py
+then you can run the program by using:
+./programName.py 
+from the command line.
