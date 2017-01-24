@@ -18,3 +18,6 @@ This mode is helpful for debugging.
 A common commandline debugger mentioned on pg. 84 of Learning Python 5th edition
 is the pdb command-line debugger. This mode can be entered with
 python3 -m programName.py 
+
+For OpenCV a good tutorial by sentdex on YouTube is:
+https://www.youtube.com/watch?v=Z78zbnLlPUA&index=1&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
