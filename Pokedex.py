@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 # Kenneth Adair
 # This script retrieves a pokemon's name based on the number the user inputs.
 # Based on a Twitter retrieving script from Pluralsight's 
