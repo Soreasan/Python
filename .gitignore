@@ -1,0 +1,3 @@
+# .gitignore to help hide some pycharm files
+.idea/*
+.idea/workspace.xml
